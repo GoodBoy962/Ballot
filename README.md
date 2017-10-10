@@ -1,11 +1,12 @@
 # Etherium cli-application for Ballot
 
-deploy the contract **Ballot.sol** and then change the **address** field in **Ballot.json**
+## To start
+deploy the contract **Ballot.sol** and then change the **address** field in the **Ballot.json** file
 
 Arguments:
 
 1. Full path to the file[1]
-2. Command with argument, if they shoul be[2]
+2. Command with argument, if they should be[2]
 
 # [1] File with keys example:
 
