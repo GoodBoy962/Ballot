@@ -16,7 +16,7 @@ Arguments:
 
 action                | command
 --------------------- | -----------------------------------------------------------
-Get list of proposals | node ballot.js **view**
+Get list of proposals and results | node ballot.js **view**
 Vote                  | node ballot.js **vote** {proposalId} {value, true or false}
 Finish the proposal   | node ballot.js **f** {proposalId}
 Remove the proposal   | node ballot.js **rm** {proposalId}
