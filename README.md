@@ -1,8 +1,11 @@
 # Etherium cli-application for Ballot
 
 ## To start
-deploy the contract **Ballot.sol** and then change the **address** field in the **Ballot.json** file
 
+1. npm install
+2. deploy the contract **Ballot.sol** and then change the **address** field in the **Ballot.json** file
+
+## Run commands
 Arguments:
 
 1. Full path to the file[1]
