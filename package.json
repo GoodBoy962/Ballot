@@ -2,6 +2,12 @@
   "name": "ballot",
   "version": "1.0.0",
   "description": "Simple cli app for ballot",
+  "dependencies": {
+    "web3": "0.19",
+    "ethereumjs-util": "4.4",
+    "ethereumjs-tx": "1.3",
+    "eth-lightwallet": "2.5"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
