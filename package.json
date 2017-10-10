@@ -1,0 +1,14 @@
+{
+  "name": "ballot",
+  "version": "1.0.0",
+  "description": "Simple cli app for ballot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm", "etherium", "solidity"
+  ],
+  "author": "Alexander Pliskin",
+  "license": "MIT"
+}
