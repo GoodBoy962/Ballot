@@ -1,5 +1,4 @@
 pragma solidity ^0.4.17;
-pragma experimental ABIEncoderV2;
 
 contract Owned {
 
@@ -70,8 +69,8 @@ contract Ballot is Owned {
         }
     }
 
-    function getProposals() returns (Proposal[] _p) {
-        _p = proposals;
+    function getProposalsLength() constant returns (uint) {
+        return proposals.length;
     }
 
 }
